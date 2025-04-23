@@ -2,12 +2,12 @@
   "tasks": [
     {
       "id": "3",
-      "title": "Complete landing page design",
+      "title": "Complete landing page",
       "status": "Pending"
     },
     {
       "id": "20250422-013102",
-      "title": "sleep",
+      "title": "Watch React Tutorial",
       "status": "Completed"
     },
     {
@@ -17,12 +17,7 @@
     },
     {
       "id": "20250422-014159",
-      "title": "eat",
-      "status": "Pending"
-    },
-    {
-      "id": "20250422-014218",
-      "title": "put",
+      "title": "Run some errand",
       "status": "Pending"
     }
   ]

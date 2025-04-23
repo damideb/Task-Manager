@@ -37,7 +37,6 @@ export default function ContextProvider({
       });
 
       const data = await response.json();
-       
       fetchTasks()
       console.log("Task added:", data);
     } catch (err) {

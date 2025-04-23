@@ -28,12 +28,20 @@ git clone https://github.com/damideb/task-manager.git
 cd task-manager
 npm install
 npm install json-server
+
+
+```
+
 ## Start the json Server first
-json-server --watch db.json --port 3001
+json-server --watch src/data/tasks.json --port 3001
+
 ## Run the app
 npm run dev
 
-```
+## Run Test
+npm test
+
+
 The app will be available at http://localhost:5173
 
 
