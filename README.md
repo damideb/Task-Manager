@@ -1,3 +1,7 @@
+# 📝 React Task Manager App
+
+A simple and elegant task management app built with React, TypeScript, Tailwind CSS, and JSON Server. This application allows users to add, edit, delete, and toggle tasks between "Pending" and "Completed".
+
 ## 🛠️ Tech Stack
 
 - **React** (with Hooks)
@@ -26,9 +30,7 @@ npm run dev
 npm test
 
 
-# 📝 React Task Manager App
 
-A simple and elegant task management app built with React, TypeScript, Tailwind CSS, and JSON Server. This application allows users to add, edit, delete, and toggle tasks between "Pending" and "Completed".
 
 ## 🚀 Features
 
