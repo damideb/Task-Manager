@@ -9,12 +9,12 @@
 
 ## 📦 Installation
 
-bash
+```bash
 git clone https://github.com/damideb/task-manager.git
 cd task-manager
 npm install
 npm install json-server
-
+```
 
 ## Start the json Server first
 json-server --watch src/data/tasks.json --port 3001
